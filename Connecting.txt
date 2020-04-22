@@ -1,0 +1,8 @@
+Note clone command is used to connect to the repository for the first time.
+Step 1: First create a repository in git hub then copy the clone Https link from git hub website.
+Create a folder and get git bash in the same folder.
+Open git bash.
+Git clone “Paste the Https link”
+Type “LS” to list the name of the repository
+Type “CD name of repository/” to get inside the repository
+Type “LS” to list the files
