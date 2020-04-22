@@ -6,3 +6,5 @@ Git clone “Paste the Https link”
 Type “LS” to list the name of the repository
 Type “CD name of repository/” to get inside the repository
 Type “LS” to list the files
+Use “git pull” command to extract the latest file 
+“Cat file name” will print what is inside the file.
